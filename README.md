@@ -1,9 +1,25 @@
 # C++ Struct Tasks
 
-This project contains 10 tasks demonstrating the use of structures in C++.
+## 📌 Опис
+Цей репозиторій містить 20 задач на використання структур (struct) в C++.
 
-## Compile
+Програма реалізована в одному файлі:
+- struct_tasks.cpp
+
+## ⚙️ Компіляція
+
 g++ struct_tasks.cpp -o struct_tasks
 
-## Run
+## ▶️ Запуск
+
 ./struct_tasks
+
+## 📚 Теми, які використані:
+- struct
+- функції
+- switch-case
+- робота з введенням/виведенням
+- базова математика
+
+## 👤 Автор
+Студент: ОЛЕКСІЙ 
